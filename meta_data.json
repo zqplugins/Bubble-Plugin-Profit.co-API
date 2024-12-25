@@ -1,0 +1,17 @@
+{
+    "categories": {
+        "0": "data (things)",
+        "1": "productivity",
+        "2": "technical",
+        "3": "web scraping",
+        "4": "compliance"
+    },
+    "data_tracked": false,
+    "demo_page": "https://clasic-plugins.bubbleapps.io/profit_co_api",
+    "description": "Strategy defines where you want to go. Execution takes you there\n\nActions:\n- Get All OKRs\n- Get All Employees\n- Get ALl Departments\n\n👛 Please support our efforts to keep this plugin free—your donations help us invest the time and resources needed to continue maintaining and improving it for everyone's benefit:  [color=#1AAFD0][url=https://zeroqo.de/support]https://zeroqo.de/support[/color][/url].\n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\n🔔 Get our 15 Top Plugins Bundle with 15 most popular plugins for only 20$/month.\nPlugins included in the Bundle:\n\n- Bubble Page to PDF converter\n- Stripe Marketplace Express\n- Air Calendar (Full Calendar 5.9.0)\n- AWS File uploader - Any size\n- Advanced Rich Text Editor\n- Mapbox Map\n- Phone Input Number with Formatting\n- Advanced Multi Uploader\n- Video Player\n- Dynamic Height & Width of Elements\n- Audio Recorder\n- Repeating Group to CSV\n- Print Pro\n- Advanced Audio Player\n- Easy File Downloader\n\nGet it here: https://zeroqode.com/bundle\n\nDEMO & DOCUMENTATION\nhttps://zeroqode.com/plugin/profitco-api-plugin-for-bubble-1695288706938x246848338837411200\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//meta-q.cdn.bubble.io/f1718768533912x191075316585262340/apps.48935.44f54662-7a2c-4402-bfe0-d567f9dd99bc.b45257b9-522c-4a7f-8a67-e4c1a0640241.d4b41040-54e6-460f-9d30-5960a026512b.png",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "Profit.co API",
+    "plugin_instructions": "- Install the plugin into your app.\n\n- Generate API keys at Profit.co API Access: https://app.profit.co/app/ng/profit.jsp#/pr/settings/security/api-access\n\n- Enter your API key and start utilizing the plugin's actions."
+}
